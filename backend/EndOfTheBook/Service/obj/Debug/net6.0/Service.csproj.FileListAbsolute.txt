@@ -1,0 +1,136 @@
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Service\obj\Debug\net6.0\ref\Service.dll

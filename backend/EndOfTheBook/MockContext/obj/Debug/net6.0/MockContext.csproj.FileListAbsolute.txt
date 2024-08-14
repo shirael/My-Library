@@ -1,0 +1,136 @@
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.deps.json
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\bin\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\MockContext\obj\Debug\net6.0\ref\MockContext.dll

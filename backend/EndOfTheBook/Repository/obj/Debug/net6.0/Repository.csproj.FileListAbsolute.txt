@@ -1,0 +1,96 @@
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\תיקיה חדשה פרויקט\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\projet books\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה א\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\פרויקט בלי login\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\שירה אלפר\C# מתקדם - סירוקה\bhxhui\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\שנה ב\C# סירוקה\מהאונקי\תיקיה עם פרויקט\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\בלי לוגין\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\פרויקט C#\EndOfTheBook\Repository\obj\Debug\net6.0\ref\Repository.dll
